@@ -5,8 +5,13 @@ I am not the author of the copyright form. IEEE is the owner of the form. I am s
 You have to edit 6 places here.
 
 TITLE OF PAPER
+
 COMPLETE LIST OF AUTHORS: 
+
 IEEE PUBLICATION TITLE
+
 Check Mark Box
+
 Author/Authorized Agent for Joint Authors(Sign)
+
 Date
